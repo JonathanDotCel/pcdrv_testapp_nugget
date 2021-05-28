@@ -1,0 +1,55 @@
+
+#use .cmd for personal .bat files
+*.cmd
+
+#compiled
+*.temp
+*.lnk
+
+#easier to remember
+send2.bat
+send3.bat
+bintest.bat
+dumptest.bat
+
+
+#nops last used port
+comport.txt
+
+#my todo
+notes.txt
+
+#os stuff
+Desktop.ini
+.DS_Store
+
+#working directories
+/junk/
+/debug/
+/stuff/
+/release_tools/
+.vs/
+Debug/
+
+#decompilation research
+/decom*/
+/*decom*/
+
+#stuff and or things
+*.idb
+*.cpe
+*.map
+*.sym
+*.temp
+*.crunched
+*.dep
+*.o
+*.elf
+
+
+stdout.txt
+stderr.txt
+
+#nops dumps
+dump*
+
