@@ -8,6 +8,8 @@
 // https://github.com/JonathanDotCel
 //
 
+// Thanks to icons8.com for the free icons :)
+
 #ifndef  MAINC
 #define MAINC
 
