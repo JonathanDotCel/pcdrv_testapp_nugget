@@ -3,6 +3,8 @@ Playstation1 'pcdrv' file server app using unirom + nops. (nugget version)
 
 If you're using the PSYQ SDK, see here: https://github.com/JonathanDotCel/pcdrv_testapp_psyq
 
+Discord: https://psx.dev
+
 ## How compile?
 
 - Install docker
